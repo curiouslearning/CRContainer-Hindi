@@ -1,0 +1,17 @@
+{
+    "name": "Curious Reader",
+    "short_name": "Curious Reader PWA",
+    "icons": [
+        {
+            "src": "dist/images/red_bird_256.webp",
+            "sizes": "256x256",
+            "purpose": "any",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "landscape",
+    "incognito": "split",
+    "background_color": "#fff"
+}

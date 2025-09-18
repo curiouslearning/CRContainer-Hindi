@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Curious Reader</string>
+    <string name="background">background</string>
+    <string name="hill">hill</string>
+    <string name="curious_learning">curious_learning</string>
+    <string name="foreground">foreground</string>
+    <string name="back">back</string>
+    <string name="facebook_app_id">909082560533927</string>
+    <string name="facebook_client_token">47ba666b74f55ca691b21a6432b4ba3f</string>
+    <string name="setting">setting</string>
+    <string name="setting_box">setting_box</string>
+    <string name="setting_box_close">setting_box_close</string>
+    <string name="select">...</string>
+</resources>

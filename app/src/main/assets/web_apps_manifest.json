@@ -1,0 +1,133 @@
+{
+  "version": "1.96",
+  "web_apps": [
+    {
+      "appId": 0,
+      "appIconUrl": "ftm_hindi.png",
+      "title": "Feed The Monster Hindi",
+      "appUrl": "https://appassets.androidplatform.net/assets/FeedTheMonsterJs/index.html?cr_lang=hindi",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 1,
+      "appIconUrl": "ftm_TheBeeAndTheElephant_prod.png",
+      "title": "Curious Reader The Bee And The Elephant Hindi Level 4",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=TheBeeAndTheElephantHindiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 2,
+      "appIconUrl": "what_day_is_it.png",
+      "title": "Curious Reader What Day Is It Hindi",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=WhatDayIsItHindi",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 3,
+      "appIconUrl": "ftm_tallandshort_prod.png",
+      "title": "Curious Reader Tall And Short Hindi Level 4",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=TallAndShortHindiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 4,
+      "appIconUrl": "who_Can_Help_Me.png",
+      "title": "Curious Reader Who Can Help Me Hindi",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=WhoCanHelpMeHindi",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 5,
+      "appIconUrl": "playground.png",
+      "title": "Curious Reader Playground Hindi",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=PlaygroundHindi",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 6,
+      "appIconUrl": "frogs_starry_wish.png",
+      "title": "Curious Reader Frog's Starry Wish Hindi",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=FrogsStarryWishHindi",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 7,
+      "appIconUrl": "friends.png",
+      "title": "Curious Reader Friends Hindi Level 4",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=FriendsHIndiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 8,
+      "appIconUrl": "dads_boots.png",
+      "title": "Curious Reader Dad's Boots Hindi",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=DadsBootsHindi",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 9,
+      "appIconUrl": "chakus_cycle.png",
+      "title": "Curious Reader Chaku's Cycle Hindi",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=ChakusCycleHindi",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 10,
+      "appIconUrl": "the_lion_runs.png",
+      "title": "Curious Reader The Lion Runs And The Cow Walks Hindi",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=TheLionRunsAndTheCowWalksHindi",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 11,
+      "appIconUrl": "ftm_Colours_prod.png",
+      "title": "Curious Reader Colours Hindi Level 4",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=ColoursHindiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 12,
+      "appIconUrl": "ftm_HideAndSeek_prod.png",
+      "title": "Curious Reader Hindi And Seek Hindi Level 4",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=HideAndSeekHindiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 13,
+      "appIconUrl": "LetsFly_prod.png",
+      "title": "Curious Reader Let's Fly Hindi Level 4",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=LetsFlyHindiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 14,
+      "appIconUrl": "my_first_day_at_the_market.png",
+      "title": "Curious Reader My First Day At The Market Hindi",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=MyFirstDayAtTheMarketHindi",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    },
+    {
+      "appId": 15,
+      "appIconUrl": "ftm_TheLostDoll_prod.png",
+      "title": "Curious Reader The Lost Doll Hindi Level 4",
+      "appUrl": "https://appassets.androidplatform.net/assets/CRWebPlayerJs/index.html?book=TheLostDollHindiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName": "Hindi"
+    }
+  ]
+}

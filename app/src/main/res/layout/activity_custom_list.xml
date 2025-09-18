@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="168dp"
+    android:layout_height="168dp"
+    android:layout_margin="0dp"
+    android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/shadow"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="bottom|end"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginBottom="15dp"
+                    android:elevation="1dp"
+                    android:background="@drawable/shadowrect" />
+                <org.curiouslearning.researchstudy.utilities.PulsingView
+                    android:id="@+id/pulsing_view"
+                    android:layout_width="168dp"
+                    android:layout_height="168dp"
+                    android:layout_gravity="center" />
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/app_image"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:contentDescription="@string/app_name"
+                    app:srcCompat="@drawable/ftm_english"
+                    android:layout_marginEnd="1dp"
+                    android:layout_marginBottom="1dp"
+                    android:layout_marginTop="25dp"
+                    android:layout_marginStart="25dp"
+                    android:elevation="3dp"
+                    app:shapeAppearanceOverlay="@style/circular" />
+
+                <ImageView
+                    android:id="@+id/download_image"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="bottom|end"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:elevation="5dp"
+                    android:contentDescription="@string/background" />
+
+        </FrameLayout>
+</LinearLayout>

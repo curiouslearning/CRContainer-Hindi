@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Curious Reader Player</title>
+    <link rel="icon" href="dist/images/cropped-bird_red-2.webp" sizes="32x32" />
+    <link
+      rel="icon"
+      href="dist/images/cropped-bird_red-2.webp"
+      sizes="192x192"
+    />
+    <link rel="apple-touch-icon" href="dist/images/cropped-bird_red-2.webp?" />
+    <!-- <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4/dist/js/splide.min.js" integrity="sha256-FZsW7H2V5X9TGinSjjwYJ419Xka27I8XPDmWryGlWtw=" crossorigin="anonymous"></script> -->
+    <link src="./dist/splide4.min.js" />
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4/dist/css/splide.min.css" integrity="sha256-5uKiXEwbaQh9cgd2/5Vp6WmMnsUr3VZZw0a8rKnOKNU=" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="./dist/splide4.min.css" />
+    <style>
+      @font-face {
+        font-family: "Quicksand";
+        src: url("./dist/fonts/Quicksand_Bold.otf");
+      }
+      #cache-load-value {
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 20px;
+        color: #454545;
+      }
+    </style>
+    <link rel="manifest" href="manifest.json" />
+    <link rel="stylesheet" href="./dist/styles/app.css" />
+  </head>
+  <body>
+    <div class="splide" role="group" aria-label="Splide Basic HTML Example">
+      <div class="splide__track">
+        <ul class="splide__list"></ul>
+      </div>
+    </div>
+    <!-- <div id="loadingScreen">
+      <img src="dist/images/loadingImg.gif" alt="Loading Animation" />
+      <div id="progressBarContainer">
+        <div id="progressBar"></div>
+      </div>
+    </div> -->
+    <script src="./dist/app.js"></script>
+    <!-- <script
+      type="module"
+      src="https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js"
+    ></script> -->
+  </body>
+</html>
