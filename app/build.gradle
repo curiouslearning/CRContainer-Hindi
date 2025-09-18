@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'org.curiouslearning.researchstudy'
+    namespace 'org.curiouslearning.curiousreader_hindi'
     compileSdk 35
 
     defaultConfig {
-        applicationId "org.curiouslearning.researchstudy"
+        applicationId "org.curiouslearning.curiousreader_hindi"
         minSdk 28
         targetSdk 35
         versionCode 37

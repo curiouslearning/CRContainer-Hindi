@@ -19,7 +19,7 @@
                     android:layout_marginBottom="15dp"
                     android:elevation="1dp"
                     android:background="@drawable/shadowrect" />
-                <org.curiouslearning.researchstudy.utilities.PulsingView
+                <org.curiouslearning.curiousreader_hindi.utilities.PulsingView
                     android:id="@+id/pulsing_view"
                     android:layout_width="168dp"
                     android:layout_height="168dp"
