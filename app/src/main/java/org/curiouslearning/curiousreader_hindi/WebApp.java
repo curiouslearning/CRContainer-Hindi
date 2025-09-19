@@ -117,9 +117,9 @@ public class WebApp extends BaseActivity {
                 appUrl = addCampaignIdToUrl(appUrl);
             }
         }
-        if(appUrl.contains("docs.google.com/forms")){
+        if (appUrl.contains("docs.google.com/forms")) {
             webView.loadUrl(addCrUserIdToFormUrl(appUrl));
-        }else {
+        } else {
             webView.loadUrl(addCrUserIdToUrl(appUrl));
         }
 
@@ -128,14 +128,16 @@ public class WebApp extends BaseActivity {
     private String addCrUserIdToUrl(String appUrl) {
         Uri originalUri = Uri.parse(appUrl);
         String separator = (originalUri.getQuery() == null) ? "?" : "&";
-        String modifiedUrl = originalUri.toString() + separator + "cr_user_id=" + pseudoId;
+        String modifiedUrl = originalUri.toString() + separator + "cr_user_id=" +
+                pseudoId;
         return modifiedUrl;
     }
 
     private String addCrUserIdToFormUrl(String appUrl) {
         Uri originalUri = Uri.parse(appUrl);
         String separator = (originalUri.getQuery() == null) ? "?" : "&";
-        String modifiedUrl = originalUri.toString() + pseudoId + separator + "cr_user_id=" + pseudoId;
+        String modifiedUrl = originalUri.toString() + pseudoId + separator +
+                "cr_user_id=" + pseudoId;
         return modifiedUrl;
     }
 

@@ -185,35 +185,7 @@ public class MainActivity extends BaseActivity {
             homeViewModal.getUpdatedAppManifest(manifestVersion);
         }
 
-        // textView = findViewById(R.id.pseudo_id_text);
         String pseudoId = prefs.getString("pseudoId", "");
-        // textView.setText("cr_user_id_" + pseudoId);
-        // textView.setVisibility(View.VISIBLE);
-
-        qrOverlay = findViewById(R.id.qr_overlay);
-        qrCodeImageView = findViewById(R.id.qr_code_image);
-        showIdButton = findViewById(R.id.show_id_button);
-
-        generateQRCode(pseudoId, qrCodeImageView);
-
-        showIdButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                qrOverlay.setVisibility(View.VISIBLE);
-                showIdButton.setVisibility(View.GONE);
-            }
-        });
-
-        qrOverlay.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                qrOverlay.setVisibility(View.GONE);
-                showIdButton.setVisibility(View.VISIBLE);
-            }
-        });
-
-        // ImageView qrCodeImageView = findViewById(R.id.qr_code_image);
-        // generateQRCode(pseudoId, qrCodeImageView);
 
     }
 
@@ -279,24 +251,6 @@ public class MainActivity extends BaseActivity {
         });
     }
 
-    private void generateQRCode(String text, ImageView imageView) {
-        QRCodeWriter writer = new QRCodeWriter();
-        try {
-            int size = 512;
-            com.google.zxing.common.BitMatrix bitMatrix = writer.encode(text, BarcodeFormat.QR_CODE, size, size);
-            Bitmap bitmap = Bitmap.createBitmap(size, size, Bitmap.Config.RGB_565);
-            for (int x = 0; x < size; x++) {
-                for (int y = 0; y < size; y++) {
-                    bitmap.setPixel(x, y,
-                            bitMatrix.get(x, y) ? android.graphics.Color.BLACK : android.graphics.Color.WHITE);
-                }
-            }
-            imageView.setImageBitmap(bitmap);
-        } catch (WriterException e) {
-            e.printStackTrace();
-        }
-    }
-
     protected void initRecyclerView() {
         recyclerView = findViewById(R.id.recycleView);
         recyclerView.setLayoutManager(
@@ -318,7 +272,6 @@ public class MainActivity extends BaseActivity {
                             + calendar.get(Calendar.MINUTE) + calendar.get(Calendar.SECOND));
             editor.commit();
         }
-    }
 
     public static String convertEpochToDate(long epochTimeMillis) {
         Instant instant = Instant.ofEpochMilli(epochTimeMillis);
