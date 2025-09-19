@@ -99,6 +99,7 @@ public class WebApp extends BaseActivity {
         webView.getSettings().setMixedContentMode(WebSettings.MIXED_CONTENT_ALWAYS_ALLOW);
         webView.addJavascriptInterface(new WebAppInterface(this), "Android");
         WebViewAssetLoader assetLoader = new WebViewAssetLoader.Builder()
+                .setDomain("hindi-cr-ftm-standalone.androidplatform.net")
                 .addPathHandler("/assets/", new WebViewAssetLoader.AssetsPathHandler(this))
                 .build();
         webView.setWebViewClient(new WebViewClient() {
@@ -117,9 +118,9 @@ public class WebApp extends BaseActivity {
                 appUrl = addCampaignIdToUrl(appUrl);
             }
         }
-        if(appUrl.contains("docs.google.com/forms")){
+        if (appUrl.contains("docs.google.com/forms")) {
             webView.loadUrl(addCrUserIdToFormUrl(appUrl));
-        }else {
+        } else {
             webView.loadUrl(addCrUserIdToUrl(appUrl));
         }
 
