@@ -90,7 +90,7 @@ public class MainActivity extends BaseActivity {
 
     private FrameLayout qrOverlay;
     private ImageView qrCodeImageView;
-    private Button showIdButton;
+    // private Button showIdButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -180,9 +180,8 @@ public class MainActivity extends BaseActivity {
         if (manifestVersion != null && manifestVersion != "") {
             homeViewModal.getUpdatedAppManifest(manifestVersion);
         }
-         loadApps("Hindi");
+        loadApps("Hindi");
         String pseudoId = prefs.getString("pseudoId", "");
-
 
     }
 
@@ -247,8 +246,6 @@ public class MainActivity extends BaseActivity {
             }
         });
     }
-
-
 
     protected void initRecyclerView() {
         recyclerView = findViewById(R.id.recycleView);
