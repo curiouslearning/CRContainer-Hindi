@@ -216,9 +216,137 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:602402387941:android:51469f69bc8b94fe9de10c",
+        "mobilesdk_app_id": "1:602402387941:android:14a2ed5eeb3008c39de10c",
         "android_client_info": {
           "package_name": "org.curiouslearning.curiousreader_hindi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602402387941-ouvb14ns39oq9m9a772qq88spgivppjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1X35NcYy8pydycUDDAc2qif99tgrWD8"
+        },
+        {
+          "current_key": "AIzaSyCT0L87KjPF-Jr_G1h-LUlBwp1HhaTG6Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602402387941-ouvb14ns39oq9m9a772qq88spgivppjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602402387941:android:0ba65adc6220fe389de10c",
+        "android_client_info": {
+          "package_name": "org.curiouslearning.ftmjsarabic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602402387941-ouvb14ns39oq9m9a772qq88spgivppjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1X35NcYy8pydycUDDAc2qif99tgrWD8"
+        },
+        {
+          "current_key": "AIzaSyCT0L87KjPF-Jr_G1h-LUlBwp1HhaTG6Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602402387941-ouvb14ns39oq9m9a772qq88spgivppjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602402387941:android:4cc2a1653a7d3a169de10c",
+        "android_client_info": {
+          "package_name": "org.curiouslearning.ftmjsenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602402387941-ouvb14ns39oq9m9a772qq88spgivppjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1X35NcYy8pydycUDDAc2qif99tgrWD8"
+        },
+        {
+          "current_key": "AIzaSyCT0L87KjPF-Jr_G1h-LUlBwp1HhaTG6Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602402387941-ouvb14ns39oq9m9a772qq88spgivppjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602402387941:android:4a87950f00dcfbe39de10c",
+        "android_client_info": {
+          "package_name": "org.curiouslearning.ftmjshindi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602402387941-ouvb14ns39oq9m9a772qq88spgivppjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1X35NcYy8pydycUDDAc2qif99tgrWD8"
+        },
+        {
+          "current_key": "AIzaSyCT0L87KjPF-Jr_G1h-LUlBwp1HhaTG6Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602402387941-ouvb14ns39oq9m9a772qq88spgivppjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602402387941:android:51469f69bc8b94fe9de10c",
+        "android_client_info": {
+          "package_name": "org.curiouslearning.researchstudy"
         }
       },
       "oauth_client": [
