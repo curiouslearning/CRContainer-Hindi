@@ -100,6 +100,7 @@ public class MainActivity extends BaseActivity {
         }
         loadApps("Hindi");
         String pseudoId = prefs.getString("pseudoId", "");
+        System.out.println(">>>>>>>>>>>>>>>>> cr_user_id" + pseudoId);
 
     }
 
