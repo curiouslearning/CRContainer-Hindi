@@ -1,0 +1,136 @@
+* {
+  box-sizing: border-box;
+}
+
+.cr-clickable-word {
+  cursor: pointer;
+  color: white;
+  transition: all 0.5s;
+  position: relative;
+  z-index: 1;
+  transform: scale(1);
+  display: inline-block;
+}
+
+.cr-clickable-word-active {
+  cursor: pointer;
+  transform: scale(1.5) !important;
+  z-index: 100 !important;
+}
+
+.cr-image-empty-glow {
+  border-radius: 50%;
+  border-style: none;
+  box-shadow: transparent 0px 0px 20px 20px;
+  transition: border 1s linear 0s, box-shadow 1s linear 0s;
+}
+
+#loadingScreen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 99vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+  background-color: white;
+  flex-direction: column;
+}
+
+#progressBarContainer {
+  position: absolute;
+  top: 68%;
+  width: 30%;
+  height: 34px;
+  border: 2px solid orange;
+  border-radius: 2px;
+  overflow: hidden;
+  background-color: #343434;
+}
+
+#progressBar {
+  height: 100%;
+  width: 0%;
+  background-color: orange;
+}
+.splide__arrow {
+  -ms-flex-align: center;
+  align-items: center;
+  background: #ccc;
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  display: -ms-flexbox;
+  display: flex;
+  height: 2.5em;
+  -ms-flex-pack: center;
+  justify-content: center;
+  opacity: 0.7;
+  padding: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2.5em;
+  z-index: 1;
+}
+.splide__arrow svg {
+  fill: #000;
+  height: 1.8em;
+  width: 1.8em;
+}
+p {
+  margin-top: 0;
+}
+
+
+@media screen and (min-height: 550px) {
+  p {
+    font-size: 2.5rem; 
+  }
+
+  .cr-sentence-mini-s {
+    font-size: 1.5rem !important; 
+  }
+
+  .cr-sentence-mini {
+    font-size: 2rem !important; 
+  }
+}
+
+
+@media screen and (max-height: 400px) {
+  p {
+    font-size: 1.5rem;
+  }
+
+  .cr-sentence-mini-s {
+    font-size: 1.1rem !important;
+  }
+
+  .cr-sentence-mini {
+    font-size: 1.3rem !important;
+  }
+}
+
+@media screen and (max-height: 300px) {
+  p {
+    font-size: 1.5rem;
+  }
+
+  .cr-sentence-mini {
+    font-size: 1.3rem !important;
+  }
+
+  .cr-sentence-mini-s {
+    font-size: 1.1rem !important;
+  }
+}
+
+
+p, .cr-sentence-mini, .cr-sentence-mini-s {
+  overflow-wrap: break-word;
+  white-space: normal;
+  text-align: center; 
+}

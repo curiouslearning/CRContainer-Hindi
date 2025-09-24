@@ -1,0 +1,156 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+    id 'jacoco'
+}
+
+android {
+    namespace 'org.curiouslearning.curiousreader_hindi'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "org.curiouslearning.curiousreader_hindi"
+        minSdk 28
+        targetSdk 35
+        versionCode 37
+        versionName "2.28"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments += ["room.schemaLocation": "$projectDir/schemas".toString()]
+            }
+        }
+    }
+
+    buildFeatures {
+        dataBinding true
+        viewBinding true
+        buildConfig = true
+    }
+
+    buildTypes {
+        debug{
+            testCoverageEnabled true
+            buildConfigField "String", "API_URL", "\"https://devcuriousreader.wpcomstaging.com/container_app_manifest/dev/\""
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            buildConfigField "String", "API_URL", "\"https://devcuriousreader.wpcomstaging.com/container_app_manifest/prod/\""
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    //retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
+    implementation platform("org.jetbrains.kotlin:kotlin-bom:1.8.22")
+    //RoomDatabase
+    implementation "androidx.room:room-runtime:2.3.0"
+    annotationProcessor "androidx.room:room-compiler:2.3.0"
+
+    //lifecycle-Viewmodal
+    implementation "androidx.lifecycle:lifecycle-viewmodel:2.5.1"
+
+    //firebase
+    implementation platform('com.google.firebase:firebase-bom:31.2.3')
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-crashlytics:18.6.1'
+    implementation 'com.google.firebase:firebase-core:17.5.0'
+
+    //picasso (image caching)
+    implementation 'com.squareup.picasso:picasso:2.71828'
+
+    //install refferal
+    implementation "com.android.installreferrer:installreferrer:2.2"
+
+    implementation 'androidx.appcompat:appcompat:1.5.1'
+    implementation 'com.google.android.material:material:1.7.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+
+    testImplementation 'junit:junit:4.13.2'
+    testImplementation 'org.robolectric:robolectric:4.10.3'
+    testImplementation 'org.mockito:mockito-core:4.11.0'
+    testImplementation 'org.mockito:mockito-inline:4.11.0'
+    testImplementation 'androidx.test:core:1.5.0'
+
+
+    androidTestImplementation 'androidx.test:core:1.5.0'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test:runner:1.5.2'
+    androidTestImplementation 'androidx.test:rules:1.5.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-contrib:3.5.1'
+    androidTestImplementation 'org.mockito:mockito-android:4.11.0'
+
+    implementation 'androidx.webkit:webkit:1.9.0'
+
+    implementation 'com.facebook.android:facebook-android-sdk:17.0.0'
+    implementation 'com.google.zxing:core:3.5.2'
+}
+jacoco {
+    toolVersion = "0.8.10" // or latest stable version
+}
+
+def coverageSourceDirs = [
+        "src/main/java"
+]
+
+task jacocoTestReport(type: JacocoReport, dependsOn: ['testDebugUnitTest']) {
+    group = "Reporting"
+    description = "Generate Jacoco coverage reports after running tests."
+
+    reports {
+        xml.required = true
+        html.required = true
+    }
+
+    classDirectories.setFrom(fileTree(
+            dir: "$buildDir/intermediates/classes/debug",
+            excludes: [
+                    '**/R.class',
+                    '**/R$*.class',
+                    '**/BuildConfig.*',
+                    '**/Manifest*.*',
+                    '**/*Test*.*',
+                    '**/databinding/*',
+                    '**/android/databinding/*',
+                    '**/androidx/**',
+                    '**/*$ViewInjector*.*',
+                    '**/*$ViewBinder*.*'
+            ]
+    ))
+
+    sourceDirectories.setFrom(files(coverageSourceDirs))
+    executionData.setFrom(fileTree(dir: "$buildDir", includes: [
+            "jacoco/testDebugUnitTest.exec",
+            "outputs/code-coverage/connected/*coverage.ec"
+    ]))
+
+    doFirst {
+        classDirectories.setFrom(
+                files(classDirectories.files.collect {
+                    fileTree(dir: it, excludes: [
+                            '**/R.class',
+                            '**/R$*.class',
+                            '**/BuildConfig.*',
+                            '**/Manifest*.*',
+                            '**/*Test*.*',
+                            '**/databinding/*',
+                            '**/android/databinding/*',
+                            '**/androidx/**'
+                    ])
+                })
+        )
+    }
+}

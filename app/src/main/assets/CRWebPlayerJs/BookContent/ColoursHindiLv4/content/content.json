@@ -1,0 +1,3174 @@
+{
+    "presentation": {
+        "slides": [
+            {
+                "elements": [
+                    {
+                        "x": 18.518518518519,
+                        "y": 6.7063561014123,
+                        "width": 67.059722222222,
+                        "height": 67.058683664231,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-619419a152c82.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 459
+                                }
+                            },
+                            "subContentId": "0c453c4e-b432-441a-91f8-c3a60e645c5b",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 32.407407407407,
+                        "y": 82.305279426424,
+                        "width": 39.998148148148,
+                        "height": 11.926644657625,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align: center;\"><span style=\"font-size:1.625em;\">\u0930\u0902\u0917 \u0915\u0940<\/span><\/h2>\n"
+                            },
+                            "subContentId": "00696250-ca76-47e7-a2f3-8aea3e8a9975",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 57.39795918367347,
+                        "y": 37.78337531486146,
+                        "width": 32.407407407407,
+                        "height": 43.034077434026,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<p style=\"text-align: center;\"><span style=\"font-size:2.25em;\">\u092d\u093e\u0932\u0942 \u0915\u094b \u0930\u0902\u0917 \u092a\u0938\u0902\u0926 \u0939\u0948\u0902\u0964<\/span><\/p>\n"
+                            },
+                            "subContentId": "e27ff98f-7634-4d6b-9daa-fb69a9ef1544",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 9.4345751633987,
+                        "y": 10.758842692809,
+                        "width": 43.634204793028,
+                        "height": 77.463667388226,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6192c60b0c3ff.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 639,
+                                    "height": 689
+                                },
+                                "alt": "The bear likes many colours.",
+                                "title": "The bear likes many colours."
+                            },
+                            "subContentId": "ded4f229-0d4a-4a1e-bc71-24420235d1d4",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 47.00255102040816,
+                        "y": 43.95465994962216,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAudio 1.4",
+                            "params": {
+                                "fitToWrapper": true,
+                                "currIndex": 1,
+                                "playerMode": "minimalistic",
+                                "controls": true,
+                                "autoplay": true,
+                                "playAudio": "Play audio",
+                                "pauseAudio": "Pause audio",
+                                "contentName": "Audio",
+                                "glowColor": "#ffd85a",
+                                "timeStampForEachText": [
+                                    {
+                                        "text": " \u092d\u093e\u0932\u0942 ",
+                                        "startDuration": "0.2227",
+                                        "endDuration": "0.8316",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db03aa2d42.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0915\u094b ",
+                                        "startDuration": "0.8731",
+                                        "endDuration": "1.0974",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db0a582823.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0930\u0902\u0917 ",
+                                        "startDuration": "1.0984",
+                                        "endDuration": "1.5535",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db0d710917.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u092a\u0938\u0902\u0926 ",
+                                        "startDuration": "1.5545",
+                                        "endDuration": "2.0217",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db0fe41706.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0939\u0948\u0902\u0964 ",
+                                        "startDuration": "2.0227",
+                                        "endDuration": "2.4494",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db126729d3.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "files": [
+                                    {
+                                        "path": "audios\/files-651da83cdab06.mp3",
+                                        "mime": "audio\/mpeg",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "27fd1bff-130f-4d68-b57f-37fc3cb8f45a",
+                            "metadata": {
+                                "contentType": "Curious Reader Audio",
+                                "license": "U",
+                                "title": "Untitled Curious Reader Audio"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 17.857142857142858,
+                        "y": 40.26675062972293,
+                        "width": 20.025510204081634,
+                        "height": 40.050377833753146,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "1a61cb31-ac41-47d0-8047-783b526fad23",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img27fd1bff-130f-4d68-b57f-37fc3cb8f45a_0"
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 57.39795918367347,
+                        "y": 42.82115869017632,
+                        "width": 35.493827160494,
+                        "height": 40.000060966874,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<p style=\"text-align: center;\"><span style=\"font-size:2.25em;\">\u092d\u093e\u0932\u0942 \u0930\u0902\u0917 \u0915\u094b \u0922\u0942\u0902\u0922\u0924\u093e \u0939\u0948\u0964<\/span><\/p>\n"
+                            },
+                            "subContentId": "2e8d04a4-32d7-4333-aa70-0583f938636e",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 7.716049382716,
+                        "y": 12.188619313696,
+                        "width": 47.83950617284,
+                        "height": 76.203714711611,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6192ca6194d20.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                },
+                                "alt": "The bear wants to find more colours.",
+                                "title": "The bear wants to find more colours."
+                            },
+                            "subContentId": "737296e0-2126-4508-8b0e-48cfcb278c3b",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 47.00255102040816,
+                        "y": 43.95465994962216,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAudio 1.4",
+                            "params": {
+                                "fitToWrapper": true,
+                                "currIndex": 2,
+                                "playerMode": "minimalistic",
+                                "controls": true,
+                                "autoplay": true,
+                                "playAudio": "Play audio",
+                                "pauseAudio": "Pause audio",
+                                "contentName": "Audio",
+                                "glowColor": "#ffd85a",
+                                "timeStampForEachText": [
+                                    {
+                                        "text": " \u092d\u093e\u0932\u0942 ",
+                                        "startDuration": "0.3245",
+                                        "endDuration": "1.0872",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db7255ba70.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0930\u0902\u0917 ",
+                                        "startDuration": "1.1744",
+                                        "endDuration": "1.6228",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db74c4e7f1.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0915\u094b ",
+                                        "startDuration": "1.6238",
+                                        "endDuration": "1.8948",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db76ac6bf0.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0922\u0942\u0902\u0922\u0924\u093e ",
+                                        "startDuration": "1.8958",
+                                        "endDuration": "2.5267",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db7964c189.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0939\u0948\u0964 ",
+                                        "startDuration": "2.5277",
+                                        "endDuration": "2.9558",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db7b5e9511.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "files": [
+                                    {
+                                        "path": "audios\/files-651db701595aa.mp3",
+                                        "mime": "audio\/mpeg",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "c8c059ec-612f-4655-9408-2b0e9eda7da5",
+                            "metadata": {
+                                "contentType": "Curious Reader Audio",
+                                "license": "U",
+                                "title": "Untitled Curious Reader Audio"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 30.612244897959183,
+                        "y": 47.817632241813605,
+                        "width": 17.474489795918366,
+                        "height": 40.050377833753146,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "9166c38f-3948-48eb-bb4b-64975c64ef7e",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "imgc8c059ec-612f-4655-9408-2b0e9eda7da5_0"
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 20.061728395062,
+                        "y": 10.364368520364,
+                        "width": 54.012345679012,
+                        "height": 82.324179157255,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6192cdb96ece5.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                }
+                            },
+                            "subContentId": "3f5f7611-7666-40b3-8661-7eea3624e6f1",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 57.39795918367347,
+                        "y": 45.34005037783375,
+                        "width": 30.864197530864,
+                        "height": 40.000060966874,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<p style=\"text-align: center;\"><span style=\"font-size:2.25em;\">\u092a\u0940\u0932\u0947 \u0915\u093e\u0928<\/span><\/p>\n"
+                            },
+                            "subContentId": "a54619eb-1c66-4af9-a227-619280715f67",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 10.802469135802,
+                        "y": 9.1450310473804,
+                        "width": 43.20987654321,
+                        "height": 82.324179157255,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6192cdeb36256.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 639,
+                                    "height": 689
+                                },
+                                "alt": "The bear has yellow ears.",
+                                "title": "The bear has yellow ears."
+                            },
+                            "subContentId": "b7197406-f0a8-4407-b448-d858cd93c3f5",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 47.00255102040816,
+                        "y": 43.95465994962216,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAudio 1.4",
+                            "params": {
+                                "fitToWrapper": true,
+                                "currIndex": 4,
+                                "playerMode": "minimalistic",
+                                "controls": true,
+                                "autoplay": true,
+                                "playAudio": "Play audio",
+                                "pauseAudio": "Pause audio",
+                                "contentName": "Audio",
+                                "glowColor": "#ffd85a",
+                                "timeStampForEachText": [
+                                    {
+                                        "text": " \u092a\u0940\u0932\u0947 ",
+                                        "startDuration": "0.9018",
+                                        "endDuration": "1.4932",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db886a7674.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0915\u093e\u0928 ",
+                                        "startDuration": "1.4942",
+                                        "endDuration": "2.2506",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651db8ac5ed01.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "files": [
+                                    {
+                                        "path": "audios\/files-651db82609bdc.mp3",
+                                        "mime": "audio\/mpeg",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "9aa91f36-b9b9-4c3e-ac51-508fb12da992",
+                            "metadata": {
+                                "contentType": "Curious Reader Audio",
+                                "license": "U",
+                                "title": "Untitled Curious Reader Audio"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 26.785714285714285,
+                        "y": 10.067707808564231,
+                        "width": 28.95408163265306,
+                        "height": 40.050377833753146,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "c49fa6a4-9682-4d57-b050-8509ee57321d",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img9aa91f36-b9b9-4c3e-ac51-508fb12da992_0"
+                    },
+                    {
+                        "x": 16.581632653061224,
+                        "y": 32.7455919395466,
+                        "width": 11.096938775510205,
+                        "height": 24.43324937027708,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "e7441948-7272-43f4-9ef8-6b06429be9e3",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img9aa91f36-b9b9-4c3e-ac51-508fb12da992_0"
+                    },
+                    {
+                        "x": 35.714285714285715,
+                        "y": 27.676322418136017,
+                        "width": 12.372448979591837,
+                        "height": 24.43324937027708,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "bdeab9bd-ea82-4958-bcb7-c088b1cf11c3",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img9aa91f36-b9b9-4c3e-ac51-508fb12da992_1"
+                    },
+                    {
+                        "x": 15.306122448979592,
+                        "y": 32.706297229219146,
+                        "width": 12.372448979591837,
+                        "height": 24.43324937027708,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "93cb58b4-fdb0-4f3c-9ef4-b3fa841e7a15",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img9aa91f36-b9b9-4c3e-ac51-508fb12da992_1"
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 23.148148148148,
+                        "y": 7.3160248379043,
+                        "width": 57.911419753086,
+                        "height": 85.353623108884,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6192cf30c0d11.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                }
+                            },
+                            "subContentId": "3c79600a-a804-4ff8-af60-a91e719e9c40",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 54.8469387755102,
+                        "y": 45.34005037783375,
+                        "width": 35.493827160494,
+                        "height": 40.000060966874,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<p style=\"text-align: center;\"><span style=\"font-size:2.25em;\">\u092d\u0942\u0930\u0947 \u0930\u0902\u0917 \u0915\u093e \u092a\u0947\u091f<\/span><\/p>\n"
+                            },
+                            "subContentId": "d3fb2005-f6b3-4f87-928f-4a3ed662ef3b",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 9.2592592592593,
+                        "y": 11.888540361595,
+                        "width": 43.20987654321,
+                        "height": 82.324179157255,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6192cf701173e.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 639,
+                                    "height": 689
+                                },
+                                "alt": "The bear has a brown tummy.",
+                                "title": "The bear has a brown tummy."
+                            },
+                            "subContentId": "f055827c-d668-4fc7-83ae-408b86bd3d72",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 47.00255102040816,
+                        "y": 43.95465994962216,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAudio 1.4",
+                            "params": {
+                                "fitToWrapper": true,
+                                "currIndex": 6,
+                                "playerMode": "minimalistic",
+                                "controls": true,
+                                "autoplay": true,
+                                "playAudio": "Play audio",
+                                "pauseAudio": "Pause audio",
+                                "contentName": "Audio",
+                                "glowColor": "#ffd85a",
+                                "timeStampForEachText": [
+                                    {
+                                        "text": " \u092d\u0942\u0930\u0947 ",
+                                        "startDuration": "0.8495",
+                                        "endDuration": "1.4966",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dbafe69cf2.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0930\u0902\u0917 ",
+                                        "startDuration": "1.4976",
+                                        "endDuration": "1.8362",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dbb2c2ca22.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0915\u093e ",
+                                        "startDuration": "1.8372",
+                                        "endDuration": "2.1579",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dbb6627620.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u092a\u0947\u091f ",
+                                        "startDuration": "2.1589",
+                                        "endDuration": "2.5914",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dbbb8e612a.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "files": [
+                                    {
+                                        "path": "audios\/files-651dbad75802d.mp3",
+                                        "mime": "audio\/mpeg",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "28c43ab0-63d2-48cb-a023-5e44d20c1712",
+                            "metadata": {
+                                "contentType": "Curious Reader Audio",
+                                "license": "U",
+                                "title": "Untitled Curious Reader Audio"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 11.479591836734695,
+                        "y": 37.78337531486146,
+                        "width": 25.127551020408163,
+                        "height": 37.531486146095716,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "d6b2b68e-2d26-494c-9a5f-93c019a89b39",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img28c43ab0-63d2-48cb-a023-5e44d20c1712_0"
+                    },
+                    {
+                        "x": 14.030612244897958,
+                        "y": 12.582644836272038,
+                        "width": 17.474489795918366,
+                        "height": 26.952141057934508,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "036112c4-d72d-4972-b415-89cb166ac713",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img28c43ab0-63d2-48cb-a023-5e44d20c1712_0"
+                    },
+                    {
+                        "x": 43.36734693877551,
+                        "y": 29.95113350125945,
+                        "width": 8.545918367346939,
+                        "height": 40.050377833753146,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "ed4ba498-d04f-4d17-8f0f-dc402bb5a098",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img28c43ab0-63d2-48cb-a023-5e44d20c1712_0"
+                    },
+                    {
+                        "x": 24.23469387755102,
+                        "y": 35.23501259445844,
+                        "width": 12.372448979591837,
+                        "height": 40.050377833753146,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "492eae33-1ab7-4642-a736-d191adae0aa7",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img28c43ab0-63d2-48cb-a023-5e44d20c1712_3"
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 20.059259259259,
+                        "y": 12.188619313696,
+                        "width": 58.641975308642,
+                        "height": 76.742052205934,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6192d11771f42.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                }
+                            },
+                            "subContentId": "a2969324-0f61-46da-b21c-714fcefa2df2",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 10.185185185185,
+                        "y": 9.7546997838724,
+                        "width": 40.924074074074,
+                        "height": 84.758281587699,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6194035e7ece6.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 639,
+                                    "height": 689
+                                }
+                            },
+                            "subContentId": "cedc5b4b-cae8-40d5-a905-65178cb80f05",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 54.8469387755102,
+                        "y": 45.34005037783375,
+                        "width": 33.950617283951,
+                        "height": 40.000060966874,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<p style=\"text-align: center;\"><span style=\"font-size:2.25em;\">&nbsp;\u0932\u093e\u0932 \u092e\u0941\u0902\u0939<\/span><\/p>\n"
+                            },
+                            "subContentId": "f60a0670-2206-46fa-beb1-8bd3f058ff11",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 47.00255102040816,
+                        "y": 43.95465994962216,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAudio 1.4",
+                            "params": {
+                                "fitToWrapper": true,
+                                "currIndex": 8,
+                                "playerMode": "minimalistic",
+                                "controls": true,
+                                "autoplay": true,
+                                "playAudio": "Play audio",
+                                "pauseAudio": "Pause audio",
+                                "contentName": "Audio",
+                                "glowColor": "#ffd85a",
+                                "timeStampForEachText": [
+                                    {
+                                        "text": " \u00a0\u0932\u093e\u0932 ",
+                                        "startDuration": "0.3886",
+                                        "endDuration": "0.9919",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dbc178581b.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u092e\u0941\u0902\u0939 ",
+                                        "startDuration": "0.9929",
+                                        "endDuration": "1.5582",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dbc46b4eff.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "files": [
+                                    {
+                                        "path": "audios\/files-651dbbed672b3.mp3",
+                                        "mime": "audio\/mpeg",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "325ba1b6-b2e2-45ef-9a00-a5171bcce1af",
+                            "metadata": {
+                                "contentType": "Curious Reader Audio",
+                                "license": "U",
+                                "title": "Untitled Curious Reader Audio"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 15.306122448979592,
+                        "y": 22.670025188916874,
+                        "width": 8.545918367346939,
+                        "height": 9.319899244332493,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "47bd217f-5f2b-49eb-8c65-99f752330f6b",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img325ba1b6-b2e2-45ef-9a00-a5171bcce1af_0"
+                    },
+                    {
+                        "x": 31.887755102040817,
+                        "y": 78.08564231738035,
+                        "width": 8.545918367346939,
+                        "height": 14.86146095717884,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "43029b94-c2ab-45cb-955a-662a49d8365e",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img325ba1b6-b2e2-45ef-9a00-a5171bcce1af_0"
+                    },
+                    {
+                        "x": 31.887755102040817,
+                        "y": 57.88715365239295,
+                        "width": 9.821428571428571,
+                        "height": 12.34256926952141,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "5ab05789-2ee3-4e46-84ab-cd0a8cb463d4",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img325ba1b6-b2e2-45ef-9a00-a5171bcce1af_0"
+                    },
+                    {
+                        "x": 15.306122448979592,
+                        "y": 67.95692695214105,
+                        "width": 9.821428571428571,
+                        "height": 12.34256926952141,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "e1e5b20d-7b30-4c13-9aed-0f24eccaf3fb",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img325ba1b6-b2e2-45ef-9a00-a5171bcce1af_0"
+                    },
+                    {
+                        "x": 8.928571428571429,
+                        "y": 42.78564231738036,
+                        "width": 8.545918367346939,
+                        "height": 12.34256926952141,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "c9a92a73-88ed-43c6-88b3-c82acf7b3774",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img325ba1b6-b2e2-45ef-9a00-a5171bcce1af_0"
+                    },
+                    {
+                        "x": 20.408163265306122,
+                        "y": 57.9345088161209,
+                        "width": 11.096938775510205,
+                        "height": 12.34256926952141,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "bec7ca4f-a40c-487e-b709-7376784e2bf0",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img325ba1b6-b2e2-45ef-9a00-a5171bcce1af_0"
+                    },
+                    {
+                        "x": 15.306122448979592,
+                        "y": 22.66413098236776,
+                        "width": 11.096938775510205,
+                        "height": 9.319899244332493,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "daa58caa-a8f3-4211-a44c-dfa02108a52b",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img325ba1b6-b2e2-45ef-9a00-a5171bcce1af_1"
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 19.13265306122449,
+                        "y": 10.075566750629722,
+                        "width": 61.728395061728,
+                        "height": 79.256935743964,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6193ed5b8592f.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                }
+                            },
+                            "subContentId": "64bf02f3-a49a-4edf-9aa0-39a15d53e1ec",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 53.57142857142857,
+                        "y": 37.78337531486146,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<p style=\"text-align: center;\"><span style=\"font-size:2.25em;\">\u0928\u0940\u0932\u0947 \u0930\u0902\u0917 \u0915\u0947 \u0939\u093e\u0925<\/span><\/p>\n"
+                            },
+                            "subContentId": "9ec81b23-2866-4083-bddd-86a044453085",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 9.2592592592593,
+                        "y": 9.4498654156264,
+                        "width": 43.20987654321,
+                        "height": 79.037759833195,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6193eda9313ec.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 639,
+                                    "height": 689
+                                },
+                                "alt": "The bear has blue hands.",
+                                "title": "The bear has blue hands."
+                            },
+                            "subContentId": "e9ece4bd-00f1-4ec9-bce6-19b0a27e9600",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 47.00255102040816,
+                        "y": 43.95465994962216,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAudio 1.4",
+                            "params": {
+                                "fitToWrapper": true,
+                                "currIndex": 10,
+                                "playerMode": "minimalistic",
+                                "controls": true,
+                                "autoplay": true,
+                                "playAudio": "Play audio",
+                                "pauseAudio": "Pause audio",
+                                "contentName": "Audio",
+                                "glowColor": "#ffd85a",
+                                "timeStampForEachText": [
+                                    {
+                                        "text": " \u0928\u0940\u0932\u0947 ",
+                                        "startDuration": "0.8330",
+                                        "endDuration": "1.5501",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc347e3e78.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0930\u0902\u0917 ",
+                                        "startDuration": "1.5511",
+                                        "endDuration": "1.8747",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc38be3587.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0915\u0947 ",
+                                        "startDuration": "1.8757",
+                                        "endDuration": "2.0894",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc3ac0d6db.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0939\u093e\u0925 ",
+                                        "startDuration": "2.0904",
+                                        "endDuration": "2.6886",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc3ee3146c.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "files": [
+                                    {
+                                        "path": "audios\/files-651dc2eae6c9f.mp3",
+                                        "mime": "audio\/mpeg",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "4f517013-2f57-4846-8942-bd74335e3d5a",
+                            "metadata": {
+                                "contentType": "Curious Reader Audio",
+                                "license": "U",
+                                "title": "Untitled Curious Reader Audio"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 11.479591836734695,
+                        "y": 25.188916876574307,
+                        "width": 13.64795918367347,
+                        "height": 40.050377833753146,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "97c0a123-d5a5-49b1-bff3-3b347d2f1bdb",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img4f517013-2f57-4846-8942-bd74335e3d5a_0"
+                    },
+                    {
+                        "x": 35.714285714285715,
+                        "y": 20.12750629722922,
+                        "width": 13.64795918367347,
+                        "height": 52.141057934508815,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "168597cc-2558-4ab7-8068-578ffa9fce4a",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img4f517013-2f57-4846-8942-bd74335e3d5a_0"
+                    },
+                    {
+                        "x": 35.714285714285715,
+                        "y": 10.055894206549118,
+                        "width": 7.270408163265306,
+                        "height": 16.876574307304786,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "3b9eb5e1-62b4-4758-996b-e4031b011ca0",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img4f517013-2f57-4846-8942-bd74335e3d5a_0"
+                    },
+                    {
+                        "x": 20.408163265306122,
+                        "y": 10.059823677581864,
+                        "width": 7.270408163265306,
+                        "height": 16.876574307304786,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "15c13a8c-bd2a-4dc3-be3d-8878cb11eca5",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img4f517013-2f57-4846-8942-bd74335e3d5a_0"
+                    },
+                    {
+                        "x": 35.714285714285715,
+                        "y": 10.055894206549118,
+                        "width": 8.545918367346939,
+                        "height": 16.876574307304786,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "e5b4579c-ff84-4407-8714-5c04cc9d8119",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img4f517013-2f57-4846-8942-bd74335e3d5a_3"
+                    },
+                    {
+                        "x": 21.683673469387756,
+                        "y": 12.57478589420655,
+                        "width": 7.270408163265306,
+                        "height": 14.357682619647354,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "7fabb989-9628-4483-9ebe-9eae8fee28a9",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img4f517013-2f57-4846-8942-bd74335e3d5a_3"
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 23.148148148148,
+                        "y": 9.1450310473804,
+                        "width": 55.555555555556,
+                        "height": 86.08248208336,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6193eea91df22.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                }
+                            },
+                            "subContentId": "fbd5b87a-920f-496d-a024-6815955858f2",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 52.29591836734694,
+                        "y": 42.82115869017632,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<p style=\"text-align: center;\"><span style=\"font-size:2.25em;\">&nbsp;\u0939\u0930\u0947 \u0930\u0902\u0917 \u0915\u0940 \u092a\u0940\u0920<\/span><\/p>\n"
+                            },
+                            "subContentId": "87bb7851-d4d8-4805-8f0c-2ecad339c109",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 7.716049382716,
+                        "y": 12.193374729841,
+                        "width": 41.596759259259,
+                        "height": 79.256935743964,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6193ef231da7c.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 639,
+                                    "height": 689
+                                },
+                                "alt": "The bear has a green back.",
+                                "title": "The bear has a green back."
+                            },
+                            "subContentId": "7a48eac6-c7d1-4942-a286-7cb0177ec7b7",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 47.00255102040816,
+                        "y": 43.95465994962216,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAudio 1.4",
+                            "params": {
+                                "fitToWrapper": true,
+                                "currIndex": 12,
+                                "playerMode": "minimalistic",
+                                "controls": true,
+                                "autoplay": true,
+                                "playAudio": "Play audio",
+                                "pauseAudio": "Pause audio",
+                                "contentName": "Audio",
+                                "glowColor": "#ffd85a",
+                                "timeStampForEachText": [
+                                    {
+                                        "text": " \u00a0\u0939\u0930\u0947 ",
+                                        "startDuration": "1.0874",
+                                        "endDuration": "1.6600",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc4acc4353.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0930\u0902\u0917 ",
+                                        "startDuration": "1.6610",
+                                        "endDuration": "1.9818",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc517986be.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0915\u0940 ",
+                                        "startDuration": "1.9828",
+                                        "endDuration": "2.3288",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc554e2807.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u092a\u0940\u0920 ",
+                                        "startDuration": "2.3298",
+                                        "endDuration": "2.9225",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc57f31cd2.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "files": [
+                                    {
+                                        "path": "audios\/files-651dc4327914b.mp3",
+                                        "mime": "audio\/mpeg",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "33ba0677-97fd-45a2-bbd9-5e4cb94465f6",
+                            "metadata": {
+                                "contentType": "Curious Reader Audio",
+                                "license": "U",
+                                "title": "Untitled Curious Reader Audio"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 19.131632653061224,
+                        "y": 50.336523929471035,
+                        "width": 12.372448979591837,
+                        "height": 27.455919395465994,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "9db2e4a3-d9af-40a3-819d-4275b464abd4",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img33ba0677-97fd-45a2-bbd9-5e4cb94465f6_0"
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 24.691358024691,
+                        "y": 9.1450310473804,
+                        "width": 55.555555555556,
+                        "height": 79.247485878548,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6193f02cab490.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                }
+                            },
+                            "subContentId": "38afd990-5537-49f4-b854-a692d2cc3574",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 37.037037037037,
+                        "y": 9.1450310473804,
+                        "width": 52.469135802469,
+                        "height": 78.623489926748,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6193f06ce0659.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                },
+                                "alt": "The bear has pink legs.",
+                                "title": "The bear has pink legs."
+                            },
+                            "subContentId": "38891266-337e-43fc-8f0f-d29d70aa11cf",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 7.653061224489796,
+                        "y": 42.82115869017632,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<p style=\"text-align: center;\"><span style=\"font-size:2.25em;\">\u0917\u0941\u0932\u093e\u092c\u0940 \u0930\u0902\u0917 \u0915\u0947 \u092a\u0948\u0930<\/span><\/p>\n"
+                            },
+                            "subContentId": "876b422e-6525-4834-ad2c-7cf6c738bcf6",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 47.00255102040816,
+                        "y": 43.95465994962216,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAudio 1.4",
+                            "params": {
+                                "fitToWrapper": true,
+                                "currIndex": 14,
+                                "playerMode": "minimalistic",
+                                "controls": true,
+                                "autoplay": true,
+                                "playAudio": "Play audio",
+                                "pauseAudio": "Pause audio",
+                                "contentName": "Audio",
+                                "glowColor": "#ffd85a",
+                                "timeStampForEachText": [
+                                    {
+                                        "text": " \u0917\u0941\u0932\u093e\u092c\u0940 ",
+                                        "startDuration": "0.6796",
+                                        "endDuration": "1.7626",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc5ee3b9d4.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0930\u0902\u0917 ",
+                                        "startDuration": "1.7636",
+                                        "endDuration": "2.1402",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc6757e8cc.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0915\u0947 ",
+                                        "startDuration": "2.1412",
+                                        "endDuration": "2.2984",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc6a9a43c8.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u092a\u0948\u0930 ",
+                                        "startDuration": "2.2994",
+                                        "endDuration": "2.9650",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc6f95a334.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "files": [
+                                    {
+                                        "path": "audios\/files-651dc5baa2a87.mp3",
+                                        "mime": "audio\/mpeg",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "e34a40e8-9115-452f-bcc3-beea2d1e15d5",
+                            "metadata": {
+                                "contentType": "Curious Reader Audio",
+                                "license": "U",
+                                "title": "Untitled Curious Reader Audio"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 65.05102040816327,
+                        "y": 68.01007556675063,
+                        "width": 23.852040816326532,
+                        "height": 17.38035264483627,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "ab051484-1c3e-47ed-81cb-bdfcfe1e0b73",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "imge34a40e8-9115-452f-bcc3-beea2d1e15d5_0"
+                    },
+                    {
+                        "x": 71.42857142857143,
+                        "y": 67.95692695214105,
+                        "width": 5.994897959183674,
+                        "height": 9.82367758186398,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "bc31d4ae-a6cd-4eac-8a6a-1facb17b9ccf",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "imge34a40e8-9115-452f-bcc3-beea2d1e15d5_3"
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 53.57142857142857,
+                        "y": 45.34005037783375,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<p style=\"text-align: center;\"><span style=\"font-size:2.25em;\">\u0930\u0902\u0917\u0940\u0928 \u092d\u093e\u0932\u0942<\/span><\/p>\n"
+                            },
+                            "subContentId": "4a543816-49e0-4aa6-87c4-307e852f8015",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 7.716049382716,
+                        "y": 15.241718412301,
+                        "width": 44.753086419753,
+                        "height": 68.211567244937,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6193f18373075.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                },
+                                "alt": "The bear is colourful.",
+                                "title": "The bear is colourful."
+                            },
+                            "subContentId": "b485e879-03e9-42e1-97e6-ef2f952a1a7f",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 47.00255102040816,
+                        "y": 43.95465994962216,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAudio 1.4",
+                            "params": {
+                                "fitToWrapper": true,
+                                "currIndex": 15,
+                                "playerMode": "minimalistic",
+                                "controls": true,
+                                "autoplay": true,
+                                "playAudio": "Play audio",
+                                "pauseAudio": "Pause audio",
+                                "contentName": "Audio",
+                                "glowColor": "#ffd85a",
+                                "timeStampForEachText": [
+                                    {
+                                        "text": " \u0930\u0902\u0917\u0940\u0928 ",
+                                        "startDuration": "0.5001",
+                                        "endDuration": "1.4725",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc83a00c3a.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u092d\u093e\u0932\u0942 ",
+                                        "startDuration": "1.4735",
+                                        "endDuration": "2.0765",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc868d3a6e.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "files": [
+                                    {
+                                        "path": "audios\/files-651dc75a5faee.mp3",
+                                        "mime": "audio\/mpeg",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "2ac92178-a200-40ab-ae5e-f0577edf7c52",
+                            "metadata": {
+                                "contentType": "Curious Reader Audio",
+                                "license": "U",
+                                "title": "Untitled Curious Reader Audio"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 6.377551020408164,
+                        "y": 15.105491183879094,
+                        "width": 17.474489795918366,
+                        "height": 40.050377833753146,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "84a38eaa-26b7-4255-8c1d-1bf9e8d2c0df",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img2ac92178-a200-40ab-ae5e-f0577edf7c52_1"
+                    },
+                    {
+                        "x": 36.98979591836735,
+                        "y": 42.78564231738036,
+                        "width": 14.923469387755102,
+                        "height": 40.050377833753146,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "4c534272-ca1a-424f-a412-1ccfd02da678",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img2ac92178-a200-40ab-ae5e-f0577edf7c52_1"
+                    },
+                    {
+                        "x": 40.816326530612244,
+                        "y": 57.9345088161209,
+                        "width": 7.780612244897959,
+                        "height": 14.86146095717884,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "59a3d53d-b905-4ccd-adc1-4eab64e3b238",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img2ac92178-a200-40ab-ae5e-f0577edf7c52_0"
+                    },
+                    {
+                        "x": 10.204081632653061,
+                        "y": 27.684130982367762,
+                        "width": 9.821428571428571,
+                        "height": 14.86146095717884,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "b4fe1a17-cec3-4ea9-b21d-c9ef21e6e48b",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img2ac92178-a200-40ab-ae5e-f0577edf7c52_0"
+                    },
+                    {
+                        "x": 35.714285714285715,
+                        "y": 55.384130982367765,
+                        "width": 10.076530612244898,
+                        "height": 6.801007556675063,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "b15f6a2c-4674-45d5-8041-ccb29ec72eb2",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img2ac92178-a200-40ab-ae5e-f0577edf7c52_0"
+                    },
+                    {
+                        "x": 33.16326530612245,
+                        "y": 72.98891687657432,
+                        "width": 8.545918367346939,
+                        "height": 9.82367758186398,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "519caa14-f654-4f60-9bd2-8e584b854546",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img2ac92178-a200-40ab-ae5e-f0577edf7c52_0"
+                    },
+                    {
+                        "x": 11.479591836734695,
+                        "y": 45.29269521410579,
+                        "width": 12.372448979591837,
+                        "height": 6.801007556675063,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "d128bba6-36d6-4c3c-89c1-6caec3d1e631",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "img2ac92178-a200-40ab-ae5e-f0577edf7c52_0"
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 24.691358024691,
+                        "y": 12.188619313696,
+                        "width": 52.220833333333,
+                        "height": 79.252058394072,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6193f33076eb9.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                }
+                            },
+                            "subContentId": "508d687c-717e-4c95-9e3b-9646c6b0c1fd",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 23.148148148148,
+                        "y": 9.1355202150911,
+                        "width": 54.012345679012,
+                        "height": 82.329056507147,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6193f352af4e7.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                }
+                            },
+                            "subContentId": "ba71b18f-27dd-4a37-81b8-c9e1a6dfe70a",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 23.148148148148,
+                        "y": 9.1402756312358,
+                        "width": 56.389814814815,
+                        "height": 81.657506393901,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6193f364db3db.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                }
+                            },
+                            "subContentId": "4e8065d2-d429-4333-a254-1d7610419237",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 6.1728395061728,
+                        "y": 12.193374729841,
+                        "width": 56.418827160494,
+                        "height": 79.256935743964,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-6193f39fd5849.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 959,
+                                    "height": 689
+                                },
+                                "alt": "Oops, the bear has no more colours.",
+                                "title": "Oops, the bear has no more colours."
+                            },
+                            "subContentId": "fe8871a8-0a24-4756-bdba-a60da4900bcd",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 54.8469387755102,
+                        "y": 45.34005037783375,
+                        "width": 37.037037037037,
+                        "height": 40.000060966874,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<p style=\"text-align: center;\"><span style=\"font-size:2.25em;\">\u0905\u092c \u0915\u094b\u0908 \u0914\u0930 \u0930\u0902\u0917 \u0928\u0939\u0940\u0902\u0964<\/span><\/p>\n"
+                            },
+                            "subContentId": "9b9eb553-4a38-4793-845a-359d8f726c8a",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 47.00255102040816,
+                        "y": 43.95465994962216,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.CRAudio 1.4",
+                            "params": {
+                                "fitToWrapper": true,
+                                "currIndex": 19,
+                                "playerMode": "minimalistic",
+                                "controls": true,
+                                "autoplay": true,
+                                "playAudio": "Play audio",
+                                "pauseAudio": "Pause audio",
+                                "contentName": "Audio",
+                                "glowColor": "#ffd85a",
+                                "timeStampForEachText": [
+                                    {
+                                        "text": " \u0905\u092c ",
+                                        "startDuration": "0.8508",
+                                        "endDuration": "1.4375",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc975f2ee3.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0915\u094b\u0908 ",
+                                        "startDuration": "1.4385",
+                                        "endDuration": "1.9122",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc9a7769a7.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0914\u0930 ",
+                                        "startDuration": "1.9132",
+                                        "endDuration": "2.3809",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc9cd75b9d.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0930\u0902\u0917 ",
+                                        "startDuration": "2.3819",
+                                        "endDuration": "2.8139",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dc9f4a3c56.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": " \u0928\u0939\u0940\u0902\u0964 ",
+                                        "startDuration": "2.8149",
+                                        "endDuration": "3.5385",
+                                        "wordfile": [
+                                            {
+                                                "path": "audios\/wordfile-651dca25ce1c9.mp3",
+                                                "mime": "audio\/mpeg",
+                                                "copyright": {
+                                                    "license": "U"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "files": [
+                                    {
+                                        "path": "audios\/files-651dc954d55f4.mp3",
+                                        "mime": "audio\/mpeg",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "a5667a58-0533-4e98-ac1d-28a265b54cfc",
+                            "metadata": {
+                                "contentType": "Curious Reader Audio",
+                                "license": "U",
+                                "title": "Untitled Curious Reader Audio"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 22.95918367346939,
+                        "y": 47.80377833753149,
+                        "width": 22.5765306122449,
+                        "height": 16.876574307304786,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "b75bf1a4-46c2-4d78-a5d3-7e6462458b84",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "imga5667a58-0533-4e98-ac1d-28a265b54cfc_3"
+                    },
+                    {
+                        "x": 22.95918367346939,
+                        "y": 47.817632241813605,
+                        "width": 22.5765306122449,
+                        "height": 17.38035264483627,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image"
+                            },
+                            "subContentId": "84baf16c-b3af-498c-b692-881cf4683f9e",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": true,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "id": "imga5667a58-0533-4e98-ac1d-28a265b54cfc_4"
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 6.535947712418301,
+                        "y": 2.147178494623656,
+                        "width": 19.389978213507625,
+                        "height": 19.354838709677416,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-657738c133dfd.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 1350,
+                                    "height": 487
+                                }
+                            },
+                            "subContentId": "149e1e2d-0f2f-47ac-a0c1-835c95a554cd",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 31.590413943355124,
+                        "y": 2.147178494623656,
+                        "width": 19.607843137254903,
+                        "height": 19.569892473118276,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-657738cf4b0b0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 814,
+                                    "height": 202
+                                }
+                            },
+                            "subContentId": "2f947185-3499-408a-927b-5c796781f136",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 58.82352941176471,
+                        "y": 2.150537634408602,
+                        "width": 39.97821350762527,
+                        "height": 17.204301075268816,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-657738e39d4ba.jpg",
+                                    "mime": "image\/jpeg",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 1732,
+                                    "height": 354
+                                }
+                            },
+                            "subContentId": "9b0854bc-a2d7-444d-9ad2-09a87f715af9",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 2.178649237472767,
+                        "y": 19.33131182795699,
+                        "width": 96.94989106753813,
+                        "height": 80.64516129032258,
+                        "action": {
+                            "library": "H5P.CRAdvancedText 1.1",
+                            "params": {
+                                "text": "<h3 style=\"text-align: center;\"><span style=\"font-size:0.875em;\">\"\u0930\u0902\u0917 \u0915\u0940\" story credits<\/span><\/h3>\n\n<hr>\n<h3 style=\"text-align: center;\"><span style=\"font-size:0.875em;\">This work, \"\u0930\u0902\u0917 \u0915\u0940\", is a derivative of \"Colours\" as translated by Alisha Berger and used under CC BY. The \u00a9 for this translation lies with Room to Read, 2015. \"Colours\" is based on the original story: \u0930\u0902\u0917, by Priyanka. \u00a9 Room to Read, 2015.<\/span><\/h3>\n\n<h3 style=\"text-align: center;\"><span style=\"font-size:0.875em;\">This work, \"\u0930\u0902\u0917 \u0915\u0940\" is licensed under CC BY 4.0 by Curious Learning.&nbsp; &nbsp; &nbsp; &nbsp;<\/span><\/h3>\n\n<h3 style=\"text-align: center;\"><span style=\"font-size:0.875em;\">Book builder - Abraham Jerry Kakooza<\/span><\/h3>\n\n<hr>\n<h3 style=\"text-align: center;\"><span style=\"font-size:0.875em;\">This story 'Rang' has been published on StoryWeaver by Room to Read.<\/span><\/h3>\n\n<h3 style=\"text-align: center;\"><span style=\"font-size:0.875em;\">Disclaimer:https:\/\/www.storyweaver.org.in\/terms_and_conditions<\/span><\/h3>\n"
+                            },
+                            "subContentId": "b2b5ac77-17c4-4294-82ee-cc74796499c6",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "willDoAnimation": false,
+                        "animationType": "glow",
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            }
+        ],
+        "keywordListEnabled": true,
+        "globalBackgroundSelector": {},
+        "keywordListAlwaysShow": false,
+        "keywordListAutoHide": false,
+        "keywordListOpacity": 90
+    },
+    "override": {
+        "activeSurface": false,
+        "hideSummarySlide": false,
+        "summarySlideSolutionButton": true,
+        "summarySlideRetryButton": true,
+        "enablePrintButton": false,
+        "social": {
+            "showFacebookShare": false,
+            "facebookShare": {
+                "url": "@currentpageurl",
+                "quote": "I scored @score out of @maxScore on a task at @currentpageurl."
+            },
+            "showTwitterShare": false,
+            "twitterShare": {
+                "statement": "I scored @score out of @maxScore on a task at @currentpageurl.",
+                "url": "@currentpageurl",
+                "hashtags": "h5p, course"
+            },
+            "showGoogleShare": false,
+            "googleShareUrl": "@currentpageurl"
+        }
+    },
+    "l10n": {
+        "slide": "Slide",
+        "score": "Score",
+        "yourScore": "Your Score",
+        "maxScore": "Max Score",
+        "total": "Total",
+        "totalScore": "Total Score",
+        "showSolutions": "Show solutions",
+        "retry": "Retry",
+        "exportAnswers": "Export text",
+        "hideKeywords": "Hide sidebar navigation menu",
+        "showKeywords": "Show sidebar navigation menu",
+        "fullscreen": "Fullscreen",
+        "exitFullscreen": "Exit fullscreen",
+        "prevSlide": "Previous slide",
+        "nextSlide": "Next slide",
+        "currentSlide": "Current slide",
+        "lastSlide": "Last slide",
+        "solutionModeTitle": "Exit solution mode",
+        "solutionModeText": "Solution Mode",
+        "summaryMultipleTaskText": "Multiple tasks",
+        "scoreMessage": "You achieved:",
+        "shareFacebook": "Share on Facebook",
+        "shareTwitter": "Share on Twitter",
+        "shareGoogle": "Share on Google+",
+        "summary": "Summary",
+        "solutionsButtonTitle": "Show comments",
+        "printTitle": "Print",
+        "printIngress": "How would you like to print this presentation?",
+        "printAllSlides": "Print all slides",
+        "printCurrentSlide": "Print current slide",
+        "noTitle": "No title",
+        "accessibilitySlideNavigationExplanation": "Use left and right arrow to change slide in that direction whenever canvas is selected.",
+        "accessibilityCanvasLabel": "Presentation canvas. Use left and right arrow to move between slides.",
+        "containsNotCompleted": "@slideName contains not completed interaction",
+        "containsCompleted": "@slideName contains completed interaction",
+        "slideCount": "Slide @index of @total",
+        "containsOnlyCorrect": "@slideName only has correct answers",
+        "containsIncorrectAnswers": "@slideName has incorrect answers",
+        "shareResult": "Share Result",
+        "accessibilityTotalScore": "You got @score of @maxScore points in total",
+        "accessibilityEnteredFullscreen": "Entered fullscreen",
+        "accessibilityExitedFullscreen": "Exited fullscreen"
+    }
+}
